@@ -1,2 +1,2 @@
-# AAAAAAgit-courseAAAAAA
-git and github cou
+# git-course
+git and github course
